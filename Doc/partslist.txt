@@ -1,0 +1,47 @@
+Partlist
+
+Part       Value          Package      Library             Position (inch)       Orientation
+
+C1         100 nF         C050-025X075 rcl                 (2.05 1.1)            R0
+C2         100 nF         C050-025X075 rcl                 (2.55 1.1)            R0
+C3         100 nF         C050-025X075 rcl                 (3.05 1.1)            R0
+C4         100 nF         C050-025X075 rcl                 (1.5 1.75)            R180
+C5         100 mF         E3,5-10      rcl                 (1.5 2.75)            R0
+C6         100 nF         C050-025X075 rcl                 (3.55 1.1)            R0
+C7         220 mF         E3,5-10      rcl                 (3 2.2)               R0
+C8         220 mF         E3,5-10      rcl                 (2.45 2.2)            R0
+C9         220 mF         E3,5-10      rcl                 (3.55 2.2)            R0
+C10        18 pF          C025-024X044 rcl                 (3.2 1.8)             R90
+C11        9 pF           C025-024X044 rcl                 (3.2 1.4)             R90
+C12        100 nF         C050-025X075 rcl                 (0.25 1.45)           R90
+C13        100 nF         C050-025X075 rcl                 (0.25 0.8)            R90
+C16        10 mF          E3,5-8       rcl                 (0.35 2.4)            R180
+C17        10 mF          E3,5-8       rcl                 (0.35 1.95)           R180
+C18        10 mF          E3,5-8       rcl                 (0.95 1.95)           R180
+CSYNC      +              JP1          jumper              (1.95 0.15)           R270
+D1         1N4148DO35-7   DO35-7       diode               (3 1.6)               R90
+IC1        LM1881         DIL08        lm1881              (2.05 1.6)            R0
+IC2        AD725          SO16W        ad725               (2.6 1.6)             R0
+IC3        7805T          TO220H       linear              (0.95 2.7)            R0
+JP1        NTSC/PAL       JP2          jumper              (1.5 1.1)             R0
+JP2        NTSC/PAL       JP2          jumper              (1.5 0.7)             R0
+L1         68 mH          6000-XXXX-RC rcl                 (3.55 1.7)            R0
+LED        2.5V           LED3MM       led                 (0.6 2.95)            R180
+PWR        +              JP1          jumper              (0.35 2.75)           R180
+QG1        17.734 MHz     DIL14S       crystal             (0.8 0.8)             R0
+QG2        14.318 MHz     DIL14S       crystal             (0.8 1.45)            R0
+R1         680 kOhm       0204/7       resistor            (1.5 1.45)            R0
+R2         1 kOhm         RTRIM3339P   resistor            (1.95 2.2)            R180
+R3         75 Ohm         0204/7       resistor            (3 2.5)               R180
+R4         75 Ohm         0204/7       resistor            (3.55 2.5)            R180
+R5         100 Ohm        RTRIM3339P   resistor            (3.05 0.7)            R180
+R6         100 Ohm        RTRIM3339P   resistor            (3.55 0.7)            R180
+R7         100 Ohm        RTRIM3339P   resistor            (2.55 0.7)            R180
+R8         1 kOhm         RTRIM3339P   resistor            (1.5 2.2)             R180
+R9         47 kOhm        0204/7       resistor            (3.55 1.35)           R0
+R12        1 kOhm         RTRIM3339P   resistor            (2.05 0.7)            R180
+RCA        736880-49      736880-49    con-conrad          (2.15 2.8)            R270
+S-VIDEO    DIN4           M_DIN4       mini_din            (3 2.95)              R0
+VGA_CSYNC  DB15           DB15         SparkFun-Connectors (0.95 0.05)           R180
+VGA_HVSYNC DB15           DB15         SparkFun-Connectors (3 0.05)              R180
+VSYNC      +              JP1          jumper              (1.95 0.35)           R270
